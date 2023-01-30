@@ -8,3 +8,4 @@ Der 'clone' Befehl kopiert das verwiesene Repository in das bestehende Verzeichn
 Der 'push' Befehl bewegt das eingeführte und gleichzeitig bearbeitete Repository zurück nach GitHub.
 
 3. git fetch
+Der 'fetch' Befehl fügt dem Repository (in dem man sich gerade befindet) den Commit mit dem remote-Branch hinzu. Diese Referenz markiert den aktuell gesetzten Commit im origin/master Commit-Baum.
