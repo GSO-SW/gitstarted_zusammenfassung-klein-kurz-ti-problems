@@ -6,3 +6,5 @@ Der 'clone' Befehl kopiert das verwiesene Repository in das bestehende Verzeichn
 
 2. git push
 Der 'push' Befehl bewegt das eingeführte und gleichzeitig bearbeitete Repository zurück nach GitHub.
+
+3. git fetch
