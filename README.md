@@ -1,15 +1,15 @@
 # git Zusammenfassung
 In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit git und gitHub kennen sollte.  Sie dürfen die gesamte Datei verändern (Sie dürfen alle vorhandenen Text entfernen). **Schaffen Sie eine gute Lerngrundlage bzw. ein Nachschlagewerk!**
 
->Die Webseite GitHub:
-	>>Git Hub User können unter "Issues" verscheidene Fehler im Code kommentieren. Dieses Vorgehen dient der Überschaubarkeit des Verwalters. 
-	>>Des Weiteren können GitHub User mit "Pull Requests" eine Anfrage auf einen Merge an den Verwalter schicken. Somit endet der Master/Origin nicht durcheinander.
-	>>Beide Funktionen gehen Hand in Hand. So besteht die Möglichkeit, einem Issue einen Pull Request anzuhängen.
-	>>Der sogenannte Token ist ein Schlüssel, der in einer bestimmten Zeit abläuft. Er lässt sich generieren und dient der Authentifizierung. 
-	>>Eine "README"-Datei kann optional jedem Projekt angefügt werden. Es dient als eine Art "Titelblatt" für den Repository. 
-	>>Ein Repository ist ein Projekt, dass in GitHub erstellt werden können. 
-	>>Der Repository auf GitHub ist der sogenannte Remote Repository, da hier jeder seinen Code commiten kann.
-	*
+# Die Webseite GitHub:
+	## Git Hub User können unter "Issues" verscheidene Fehler im Code kommentieren. Dieses Vorgehen dient der Überschaubarkeit des Verwalters. 
+	## Des Weiteren können GitHub User mit "Pull Requests" eine Anfrage auf einen Merge an den Verwalter schicken. Somit endet der Master/Origin nicht durcheinander.
+	## Beide Funktionen gehen Hand in Hand. So besteht die Möglichkeit, einem Issue einen Pull Request anzuhängen.
+	## Der sogenannte Token ist ein Schlüssel, der in einer bestimmten Zeit abläuft. Er lässt sich generieren und dient der Authentifizierung. 
+	## Eine "README"-Datei kann optional jedem Projekt angefügt werden. Es dient als eine Art "Titelblatt" für den Repository. 
+	## Ein Repository ist ein Projekt, dass in GitHub erstellt werden können. 
+	## Der Repository auf GitHub ist der sogenannte Remote Repository, da hier jeder seinen Code commiten kann.
+	
 
 :dart: Ziele:
 - Programmieralltag simulieren
