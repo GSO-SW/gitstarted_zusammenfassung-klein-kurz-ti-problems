@@ -12,6 +12,11 @@ In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit git
 	## GitHub und Git gehen Hand in Hand. 
 	## Git sorgt für die lokale Verwaltung und GitHub die fasst alle Versionen vom Team im "Remote-Repository" zusammen.
 	## Zudem bietet GitHub eine Möglichkeit sich mit anderen Entwicklern auszutauschen. Wie Social Media.
+	## Github Gist ermöglicht es GitHub-Nutzern, Codestücke oder andere Notizen zu teilen.
+	## GitHub Flow ist ein leichtgewichtiger, branchbasierter Workflow für regelmäßig aktualisierte Bereitstellungen.
+	## GitHub Pages sind statische Webseiten, die ein Projekt hosten und Informationen direkt aus dem GitHub-Repository einer Person oder Organisation beziehen.
+	## Mit GitHub Desktop können Benutzer von Windows- oder Mac-Desktops aus auf GitHub zugreifen, statt die GitHub-Website aufzurufen.
+	## Das GitHub Student Developer Pack ist ein kostenloses Angebot von Entwicklertools, das auf Studenten beschränkt ist und Cloud-Ressourcen, Programmiertools und Support sowie GitHub-Zugang umfasst.
 	
 
 :dart: Ziele:
