@@ -11,3 +11,5 @@ Der 'fetch' Befehl fügt dem Repository (in dem man sich gerade befindet) den Co
 
 # 4. git pull
 Der 'pull' Befehl fügt wie der 'fetch' Befehl dem Repository den Commit mit dem remote-Branch hinzu, außer dass der 'merge' Befehl ebenfalls ausgeführt wird. Somit kann der entstehnde Merge Konflikt direkt Lösen ohne vorher extra den 'merge' Befehl auszuführen.
+
+# 5. git push --set-upstream origin [branch]
