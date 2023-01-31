@@ -1,3 +1,43 @@
+$ git init
+  erstellt ein lokales repository
+
+$ git add [Datei]
+  fügt eine einzelne Datei der "Staging Area" hinzu
+
+$ git add *
+  fügt alle Dateien der "staging Area" hinzu
+  Wenn eine Datei gelöscht wurde muss man diese einzeln
+  commiten
+
+$ git status
+  zeigt den Satus der geänderten Dateien an
+
+$ git reset --mixed
+  das commiten wird rückgängig gemacht und die Dateien sind
+  nicht mehr gestaged (--mixed kann weggelassen werden, weil es als Standart
+  befehl für reset festgelegt ist)
+
+$ git reset --soft
+  das commiten wird rückgängig gemacht aber die Dateien sind
+  noch in der "Staging Area"
+
+$ git reset --hard
+  sowohl das commiten als auch die änderungen an den Dateien
+  werden rückgängig gemacht
+
+$ git commit -m "[Commit Nachricht]"
+  Die Änderungen die sich auf der "Staging Area" befinden werden
+  zu einem neuen Commit
+
+$ git log
+  Zeigt die Historie des aktuellen Branches
+
+$ git log --all
+  zeigt alle Commits von allen Branches
+
+$ git log --all --graph
+  zeigt alle Commits von allen Branches als Graph
+
 ## GitHub Befehle:
 
 # 1. git clone [url]
@@ -15,7 +55,6 @@ Der 'pull' Befehl fügt wie der 'fetch' Befehl dem Repository den Commit mit dem
 # 5. git push --set-upstream origin [branch]
 Der '--set-upstream' Befehl ist eine Erweiterung für den 'push' Befehl, die bei der Übergabe des Repositorys nach GitHub einen optionalen bzw. zusätzlichen Branch erstellt.
 
-
 # Die Webseite GitHub:
 	## Git Hub User können unter "Issues" verscheidene Fehler im Code kommentieren. Dieses Vorgehen dient der Überschaubarkeit des Verwalters. 
 	## Des Weiteren können GitHub User mit "Pull Requests" eine Anfrage auf einen Merge an den Verwalter schicken. Somit endet der Master/Origin nicht durcheinander.
@@ -31,4 +70,3 @@ Der '--set-upstream' Befehl ist eine Erweiterung für den 'push' Befehl, die bei
 	## GitHub Flow ist ein leichtgewichtiger, branchbasierter Workflow für regelmäßig aktualisierte Bereitstellungen.
 	## GitHub Pages sind statische Webseiten, die ein Projekt hosten und Informationen direkt aus dem GitHub-Repository einer Person oder Organisation beziehen.
 	## Mit GitHub Desktop können Benutzer von Windows- oder Mac-Desktops aus auf GitHub zugreifen, statt die GitHub-Website aufzurufen.
-	## Das GitHub Student Developer Pack ist ein kostenloses Angebot von Entwicklertools, das auf Studenten beschränkt ist und Cloud-Ressourcen, Programmiertools und Support sowie GitHub-Zugang umfasst.
