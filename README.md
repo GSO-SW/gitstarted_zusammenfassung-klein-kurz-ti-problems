@@ -9,6 +9,9 @@ In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit git
 	## Eine "README"-Datei kann optional jedem Projekt angefügt werden. Es dient als eine Art "Titelblatt" für den Repository. 
 	## Ein Repository ist ein Projekt, dass in GitHub erstellt werden können. 
 	## Der Repository auf GitHub ist der sogenannte Remote Repository, da hier jeder seinen Code commiten kann.
+	## GitHub und Git gehen Hand in Hand. 
+	## Git sorgt für die lokale Verwaltung und GitHub die fasst alle Versionen vom Team im "Remote-Repository" zusammen.
+	## Zudem bietet GitHub eine Möglichkeit sich mit anderen Entwicklern auszutauschen. Wie Social Media.
 	
 
 :dart: Ziele:
